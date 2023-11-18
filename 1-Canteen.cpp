@@ -14,3 +14,5 @@ int main() {
 
     return 0;
 }
+// Open one of the C++ files in a text editor.
+// Make some changes to the file (add comments, modify code, etc.).
